@@ -25,7 +25,7 @@ i współpracują z firmami z branży IT.
 <table>
 <tr>
 <td width="42%" align="center" valign="top">
-  <img src="https://i.imgur.com/plE6mdB.png" alt="E-XPERT" width="100%">
+  <img src="https://i.imgur.com/ZAuwVVU.png" alt="E-XPERT" width="100%">
   <br>
   <sub><i>Koło Naukowe Systemów Informatycznych E-XPERT</i></sub>
 </td>
