@@ -117,19 +117,6 @@ które często przeradzają się w realne projekty nagradzane na arenie międzyn
 
 ---
 
-## 🤝 Partnerzy
-
-| Partner | Strona |
-|----------|--------|
-| Uniwersytet Gdański | [ug.edu.pl](https://ug.edu.pl) |
-| Wydział Zarządzania UG | [wzr.ug.edu.pl](https://wzr.ug.edu.pl) |
-| Madkom | [madkom.pl](https://madkom.pl) |
-| Neoteric | [neoteric.eu](https://neoteric.eu) |
-| Bright Inventions | [brightinventions.pl](https://brightinventions.pl) |
-| Staples Solutions | — |
-
----
-
 ## 📚 Wartości
 
 > **Technologia nie musi być tylko narzędziem – może być formą współpracy, ekspresji i wpływu na rzeczywistość.**
