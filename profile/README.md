@@ -112,7 +112,8 @@ które często przeradzają się w realne projekty nagradzane na arenie międzyn
 ## 👥 Opiekunowie naukowi
 
 - **prof. Jerzy Auksztol** – współzałożyciel i pierwszy opiekun Koła  
-- **prof. Michał Kuciapski** – opiekun w latach 2008–2021  
+- **prof. Michał Kuciapski** – opiekun w latach 2008–2021
+- **dr. Dariusz Kralewski** – obecny opiekun Koła, udzielający wsparcia organizacyjnego  
 - **mgr Piotr Porzuczek** – obecny opiekun Koła, wspierający studentów w rozwoju naukowym i organizacyjnym  
 
 ---
