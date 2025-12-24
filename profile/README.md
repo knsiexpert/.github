@@ -76,7 +76,7 @@ Projekt zdobył **III miejsce w światowym finale AIS** i został objęty ochron
 W kolejnych latach powstały takie projekty jak **CyberWatch**, **SocialMonitor**, **UniGo**, **Eris** i **Apollo** –  
 każdy z nich łączył idee **technologii, nauki i społecznego zaangażowania**.  
 
-W latach **2023–2025** Koło przeszło pełną cyfrową transformację –  
+W latach **2023–2026** Koło przeszło pełną cyfrową transformację –  
 modernizując stronę, wdrażając repozytoria open source i przenosząc się do modelu **GitHub Pages**,  
 co symbolicznie zamknęło pewien etap i otworzyło nowy rozdział w historii E-XPERT.
 
@@ -128,7 +128,7 @@ ucząc się poprzez tworzenie i tworząc, by się uczyć.
 
 ---
 
-## 📅 2001–2025
+## 📅 2001–2026
 
-**© 2001–2025 KNSI E-XPERT • Uniwersytet Gdański • Wydział Zarządzania**  
+**© 2001–2026 KNSI E-XPERT • Uniwersytet Gdański • Wydział Zarządzania**  
 [Strona Koła](https://knsiexpert.github.io/site/) • [GitHub](https://github.com/knsiexpert)
